@@ -1,6 +1,10 @@
-# MERN Project (con MySQL)
+# MERN Project (with MySQL)
 
-Project where we store task in a MySQL database this task can be created, readed, updated and deleted (CRUD) using the *mysql2* package.
+Use NodeJS as a backend framework with MySQL to store tasjs that can be created, readed, updated and deleted (CRUD) using *mysql2* package.
+
+React is used in the fronted and let the users do the CRUD operations.
+
+
 
 
 
